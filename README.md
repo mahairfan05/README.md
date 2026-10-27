@@ -5,13 +5,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahairfan05" alt="mahairfan05" /></a> </p> -->
 
-- 🔭 I’m currently working on ** an AI Powered Student Application Tracker**
+- 🔭 I’m currently working on **an AI Powered Student Application Tracker**
 
-- 🌱 I’m currently learning **NLP, React, CSS**
+- 🌱 I’m currently learning **React, CSS and NLP**
 
-- 👯 I’m looking to collaborate on **AI Powered projects**
+- 👯 I’m looking to collaborate on **AI Powered Projects**
 
-- 🤝 I’m looking for help with **AI Powered Solutions**
+- 🤝 I’m looking for help with **AI Integerated Real-World Solutions**
 
 - 📫 How to reach me **irfanmaha205@gmail.com**
 
