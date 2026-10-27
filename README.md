@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahairfan05" alt="mahairfan05" /></a> </p> -->
 
-- 🔭 I’m currently working on **Student Application Tracker**
+- 🔭 I’m currently working on ** an AI Powered Student Application Tracker**
 
 - 🌱 I’m currently learning **NLP, React, CSS**
 
